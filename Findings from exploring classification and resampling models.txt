@@ -1,0 +1,7 @@
+For the first model, glm and lda produce the lowest error rates.  
+
+For the second model, a KNN equalling 5 produces the best results for the data-- as it has the lowest error rate at 0.08860759. 
+
+For the third model, again KNN at 5 provides the best results. 
+
+For the fourth model, a glm.fit has the best p value and the lowest error.  
